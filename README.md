@@ -67,8 +67,7 @@ This app allows users to exchange currency with those others that are traveling 
 * Exchange screen => Message screen
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="swappit-app.jpeg" width=600>
+[![swappit-app.jpg](https://i.postimg.cc/1ztkk7Y9/swappit-app.jpg)](https://postimg.cc/WdBYr8vK)
 
 ### [BONUS] Digital Wireframes & Mockups
 https://xd.adobe.com/view/ca76cdc7-bab4-4807-488e-87034eac68da-bc47/
